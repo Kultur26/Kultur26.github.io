@@ -14,5 +14,5 @@ I am a third-year Applications Development student specializing in software deve
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kultur26&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 -->
 ## 🎥 Interview video
-[![Watch Interview](SM-video-icon.png)](Mock-interview-Joshua-Bonzet-compressed.mp4)
+[![Watch Interview](Josh_pic.jpeg)](Mock-interview-Joshua-Bonzet-compressed.mp4)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

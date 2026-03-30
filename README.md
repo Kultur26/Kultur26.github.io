@@ -11,5 +11,6 @@ I am a third-year Applications Development student specializing in software deve
 ![](https://github-readme-stats.vercel.app/api?username=Kultur26&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kultur26&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kultur26&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+## 🎥 Interview video
+[![Watch Interview](SM-video-icon.png)](Mock-interview-Joshua-Bonzet-compressed.mp4)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

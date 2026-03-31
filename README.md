@@ -44,6 +44,6 @@ November | 2021
 * +27 83 703 9684
 
 ## 🎥 Interview video
-* Click on thumbnail
-![(Click on video)[Mock-interview-Joshua-Bonzet-compressed.mp4]]
+(Click on thumbnail)
+[![Watch the video](Josh_pic.jpeg)](Mock-interview-Joshua-Bonzet-compressed.mp4)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

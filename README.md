@@ -9,7 +9,7 @@ I aim to apply my technical abilities and dedication to a forward-thinking compa
 <br>
 
 # 🎓 Education
-* Diploma | Cape Peninsula University of Technology | 2024 - Present
+Diploma | Cape Peninsula University of Technology | 2024 - Present
 * Certificate | College of Cape Town | 2023
 * Bachelor Pass | Sea Point High | 2016 – 2020
 

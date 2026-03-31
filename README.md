@@ -10,5 +10,5 @@ I am a third-year Applications Development student specializing in software deve
 
 ## 🎥 Interview video
 Please click on image.
-[![Watch Interview](Josh_pic.jpeg)](Mock-interview-Joshua-Bonzet-compressed.mp4)
+[![Watch Interview](Mock-interview-Joshua-Bonzet-compressed.mp4)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

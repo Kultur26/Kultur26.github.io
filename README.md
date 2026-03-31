@@ -45,5 +45,5 @@ November | 2021
 
 ## 🎥 Interview video
 * Click on thumbnail
-[![Watch Interview](https://raw.githubusercontent.com/Kultur26/Kultur26.github.io/main/Josh_pic.jpeg)](https://raw.githubusercontent.com/Kultur26/Kultur26.github.io/main/Mock-interview-Joshua-Bonzet-compressed.mp4)
+![(Click on video)[Mock-interview-Joshua-Bonzet-compressed.mp4]]
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

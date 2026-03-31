@@ -1,12 +1,47 @@
-# 💫 About Me:
-I am a third-year Applications Development student specializing in software development, driven to build technology solutions that create positive impact in people’s everyday lives. I develop my skills through practical learning in systems development, application development, and automation by using scripting to improve workflows and solve real problems. I enjoy analysis videos and studying mental models because they strengthen my structured approach to problem solving and help me analyze software with close attention to detail, where small improvements can lead to meaningful results.<br>
+## 🌐 Contact:
+* Cell | +27 83 567 8861
+* Outlook | 221312536@mycput.ac.za
+* LinkedIn | http://www.linkedin.com/in/joshua-bonzet
+* Github | https://github.com/Kultur26
+ 
+# 💫 Objective
+I aim to apply my technical abilities and dedication to a forward-thinking company, where I can continuously grow as a software developer in a challenging environment that values innovation and learning — ultimately adding meaningful value as the organization achieves its goals and realizes its vision.
+<br>
 
+# 🎓 Education
+* Diploma | Cape Peninsula University of Technology | 2024 - Present
+* Certificate | College of Cape Town | 2023
+* Bachelor Pass | Sea Point High | 2016 – 2020
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-bonzet) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:221312536@mycput.ac.za) 
+# 🏢 Experience
+### Store Clerk | Studio88
+December | 2022
+* Maintained store cleanliness and operation standards, contributing to a smooth and efficient retail environment.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### Runner | ABENAKI Spur
+November | 2021
+* Managed rapid table turnover in a fast-paced dining environment, maintaining cleanliness standards and supporting a smooth service flow.
+
+# 🛠️ Projects
+* Created a Student Management System using Builder Design Patterns.
+* Co-developed CPUT STAYS, a web-based student accommodation booking system designed to streamline the booking process for CPUT students.
+
+# 💻 Skills
+* Java
+* HTML
+* CSS
+* JavaScript
+* Wireframing
+* UX/UI Design
+* Git
+* SQL
+
+# ☎️ References
+### Peter Bonzet | “SANDF”
+* +27 84 561 5743
+
+### Pastor Brandon Kowlas | Jesus Connection Church
+* +27 83 703 9684
 
 ## 🎥 Interview video
 Please click on image.

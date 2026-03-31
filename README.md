@@ -44,6 +44,7 @@ November | 2021
 * +27 83 703 9684
 
 ## 🎥 Interview video
-Please click on image.
-[![Watch Interview][Josh_pic.jpeg](Mock-interview-Joshua-Bonzet-compressed.mp4)
+<video width="640" controls>
+  <source src="https://raw.githubusercontent.com/Kultur26/Kultur26.github.io/main/Mock-interview-Joshua-Bonzet-compressed.mp4" type="video/mp4">
+</video>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

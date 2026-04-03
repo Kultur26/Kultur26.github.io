@@ -5,7 +5,7 @@
 * Github | https://github.com/Kultur26
  
 # 💫 Objective
-I aim to apply my technical abilities and dedication to a forward-thinking company, where I can continuously grow as a software developer in a challenging environment that values innovation and learning — ultimately adding meaningful value as the organization achieves its goals and realizes its vision.
+I believe that positive results are achieved through hard work, dedication, and integrity — qualities that define who I am and what I represent. I aim to apply my technical abilities and strong work ethic within a forward-thinking organization where I can continuously grow as a software developer in a challenging environment that values innovation and learning. I am committed to contributing meaningful value while supporting the organization in achieving its goals and realizing its vision, guided by honesty, accountability, and professionalism.
 <br>
 
 # 🎓 Education

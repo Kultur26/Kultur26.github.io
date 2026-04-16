@@ -45,4 +45,3 @@ November | 2021
 
 ## 🎥 Interview video (click on thumbnail)
 [![Watch the video](Josh_pic.jpeg)](Mock-interview-Joshua-Bonzet-compressed.mp4)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

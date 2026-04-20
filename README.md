@@ -43,5 +43,8 @@ November | 2021
 ### Pastor Brandon Kowlas | Jesus Connection Church
 * +27 83 703 9684
 
+##Curriculum Vitae
+
+
 ## 🎥 Interview video (click on thumbnail)
 [![Watch the video](Josh_pic.jpeg)](Mock-interview-Joshua-Bonzet-compressed.mp4)

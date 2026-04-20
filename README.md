@@ -44,7 +44,7 @@ November | 2021
 * +27 83 703 9684
 
 ##Curriculum Vitae
-
+[View my CV](./JOSHUA-BONZET-CV-ONLY-2026-.pdf)
 
 ## 🎥 Interview video (click on thumbnail)
 [![Watch the video](Josh_pic.jpeg)](Mock-interview-Joshua-Bonzet-compressed.mp4)
